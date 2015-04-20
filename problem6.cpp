@@ -22,7 +22,7 @@ unsigned int sqsum(int);
 int main()
 {
     cout<<"Sum square difference :"<<endl;
-     cout<<sum(ilsoc)*sum(ilosc) - sqsum(ilosc)<<endl;
+     cout<<sum(ilosc)*sum(ilosc) - sqsum(ilosc)<<endl;
     cout<<"-----------------------------"<<endl;
     cout<<"THE END";
     cin.get();
