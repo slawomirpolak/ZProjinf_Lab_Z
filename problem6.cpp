@@ -5,7 +5,7 @@
 Program for solving a problem:
 The sum of the squares of the first ten natural numbers is,
 
-12 + 22 + ... + 102 = 385
+1^2 + 2^2 + ... + 10^2 = 385
 The square of the sum of the first ten natural numbers is,
 
 (1 + 2 + ... + 10)2 = 552 = 3025
@@ -22,7 +22,7 @@ unsigned int sqsum(int);
 int main()
 {
     cout<<"Sum square difference :"<<endl;
-     cout<<sum(100)*sum(100) - sqsum(100)<<endl;
+     cout<<sum(ilsoc)*sum(ilosc) - sqsum(ilosc)<<endl;
     cout<<"-----------------------------"<<endl;
     cout<<"THE END";
     cin.get();
